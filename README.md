@@ -1,5 +1,8 @@
 # qa.base-performance-test.K6
 
+
+<p align="center"><img src="image/Captura de tela de 2022-12-04 11-20-21.png"/></p>
+
 Prova de conceito na utilização do K6, Grafana e InfluxDb para testes de performance.
 
 ## Informations
