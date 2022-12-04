@@ -16,7 +16,7 @@ O K6 usa um motor EcmaScript 5.1 JavaScript incorporado (uma implementação goj
 ## Pre-requisitos
 
 - Instalar o [K6](https://k6.io/docs/getting-started/installation/)
-- Instalar o [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- Instalar o [Docker & dodcker compose](https://github.com/mtsdevops-26/mts-shell)
 
 ## Up Containers
 
